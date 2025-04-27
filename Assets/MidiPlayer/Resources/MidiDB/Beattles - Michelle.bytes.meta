@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e706903b4153e9c429b7a4a19b13c5a4
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107994
+  packageName: Maestro - Midi Player Tool Kit - Free
+  packageVersion: 2.14.0
+  assetPath: Assets/MidiPlayer/Resources/MidiDB/Beattles - Michelle.bytes
+  uploadId: 719084

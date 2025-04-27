@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 19c5deab531d0fa42a1a42f95e4e12cc
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107994
+  packageName: Maestro - Midi Player Tool Kit - Free
+  packageVersion: 2.14.0
+  assetPath: Assets/MidiPlayer/Resources/MidiDB/Bizet - Arlesienne.bytes
+  uploadId: 719084

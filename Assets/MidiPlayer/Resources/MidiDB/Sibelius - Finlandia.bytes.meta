@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b3e68b063575af4493364675ec83893
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107994
+  packageName: Maestro - Midi Player Tool Kit - Free
+  packageVersion: 2.14.0
+  assetPath: Assets/MidiPlayer/Resources/MidiDB/Sibelius - Finlandia.bytes
+  uploadId: 719084
